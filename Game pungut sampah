@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Gerakan Cepat Pungut Sampah</title>
+</head>
+<body>
+  <h1>Gerakan Cepat Pungut Sampah</h1>
+  <p>Sampah plastik termasuk?</p>
+
+  <button onclick="alert('Benar! Lanjut pungut 3 sampah!')">Anorganik</button>
+  <button onclick="alert('Salah!')">Organik</button>
+</body>
+</html>
